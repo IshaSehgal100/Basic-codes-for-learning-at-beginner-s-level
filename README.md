@@ -1,7 +1,7 @@
 # Python_Global-Education_EDA
 Global Education.csv: Data File
 
-Columns:
+Columns:        
     Countries and Areas: Name of the countries and areas;   
     Latitude: Latitude coordinates of the geographical location;        
     Longitude: Longitude coordinates of the geographical location;        
